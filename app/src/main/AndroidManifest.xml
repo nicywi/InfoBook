@@ -13,6 +13,18 @@
         android:theme="@style/Theme.InfoBook"
         tools:targetApi="31">
         <activity
+            android:name=".WondersActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MuseumsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LeadersActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CountriesActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

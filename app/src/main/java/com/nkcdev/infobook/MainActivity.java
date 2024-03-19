@@ -22,8 +22,8 @@ public class MainActivity extends AppCompatActivity {
         recyclerView = findViewById(R.id.recyclerView);
         recyclerView.setLayoutManager(new GridLayoutManager(this, 2));
 
-        ModelClass modelClass1 = new ModelClass("leaders", "the Leaders");
-        ModelClass modelClass2 = new ModelClass("countries", "The Countries");
+        ModelClass modelClass1 = new ModelClass("countries", "The Countries");
+        ModelClass modelClass2 = new ModelClass("leaders", "the Leaders");
         ModelClass modelClass3 = new ModelClass("museums", "The Museums");
         ModelClass modelClass4 = new ModelClass("wonders", "Seven Wonders of the World");
 
