@@ -6,11 +6,13 @@ import androidx.fragment.app.FragmentManager;
 import androidx.lifecycle.Lifecycle;
 import androidx.viewpager2.adapter.FragmentStateAdapter;
 
+import com.nkcdev.infobook.fragments.FragmentFrance;
+import com.nkcdev.infobook.fragments.FragmentItaly;
 import com.nkcdev.infobook.fragments.FragmentUnitedKingdom;
 
-public class ViewPagerAdapterCountry extends FragmentStateAdapter {
+public class ViewPagerAdapterCountries extends FragmentStateAdapter {
 
-    public ViewPagerAdapterCountry(@NonNull FragmentManager fragmentManager, @NonNull Lifecycle lifecycle) {
+    public ViewPagerAdapterCountries(@NonNull FragmentManager fragmentManager, @NonNull Lifecycle lifecycle) {
         super(fragmentManager, lifecycle);
     }
 
@@ -24,6 +26,12 @@ public class ViewPagerAdapterCountry extends FragmentStateAdapter {
             case 0:
                 fragment = FragmentUnitedKingdom.newInstance();
                 break;
+            case 1:
+                fragment = FragmentFrance.newInstance();
+                break;
+            case 2:
+                fragment = FragmentItaly.newInstance();
+                break;
             default:
                 return null;
         }
@@ -33,6 +41,6 @@ public class ViewPagerAdapterCountry extends FragmentStateAdapter {
 
     @Override
     public int getItemCount() {
-        return 1;
+        return 3;
     }
 }

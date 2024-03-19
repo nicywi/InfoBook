@@ -21,4 +21,40 @@
 \n\n\t\t The UK has the world\'s sixth-largest economy by nominal gross domestic product (GDP), and the ninth-largest by purchasing power parity. It is a recognised nuclear state and is ranked fourth globally in military expenditure. The UK has been a permanent member of the UN Security Council since its first session in 1946. It is a member of the Commonwealth of Nations, the Council of Europe, the G7, the OECD, NATO, the Five Eyes, AUKUS and the CPTPP.
 
     </string>
+    <string name="hello" />
+    <string name="france">
+
+        <b>Capital: </b>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t Paris \n
+        <b>Largest City: </b>\t\t\t\t\t\t\t\t\t Paris \n
+        <b>National Language: </b>\t French \n
+        <b>Total area: </b>\t\t\t\t\t\t\t\t\t\t\t 643,801 km2 \n
+        <b>Currency: </b>\t\t\t\t\t\t\t\t\t\t\t\t EUR \n\n
+
+                \t\tFrance,officially the French Republic, is a country located primarily in Western Europe. It also includes overseas regions and territories in the Americas and the Atlantic, Pacific and Indian oceans,[XII] giving it one of the largest discontiguous exclusive economic zones in the world. Metropolitan France shares borders with Belgium and Luxembourg to the north, Germany to the north east, Switzerland to the east, Italy and Monaco to the south east, Andorra and Spain to the south, and a maritime border with the United Kingdom to the north west. Its metropolitan area extends from the Rhine to the Atlantic Ocean and from the Mediterranean Sea to the English Channel and the North Sea. Its overseas territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean. Its eighteen integral regions (five of which are overseas) span a combined area of 643,801 km2 (248,573 sq mi) and have a total population of 68.4 million as of January 2024. France is a unitary semi-presidential republic with its capital in Paris, the country\'s largest city and main cultural and commercial centre; other major urban areas include Marseille, Lyon, Toulouse, Lille, Bordeaux, Strasbourg, Nantes and Nice.
+
+        \n\n\t\t Metropolitan France was settled during the Iron Age by Celtic tribes known as Gauls before Rome annexed the area in 51 BC, leading to a distinct Gallo-Roman culture. In the Early Middle Ages, the Germanic Franks formed the Kingdom of Francia, which became the heartland of the Carolingian Empire. The Treaty of Verdun of 843 partitioned the empire, with West Francia evolving into the Kingdom of France. In the High Middle Ages, France was a powerful but decentralized feudal kingdom, but from the mid-14th to the mid-15th centuries, France was plunged into a dynastic conflict with England known as the Hundred Years\' War. In the 16th century, the French Renaissance saw culture flourish and a French colonial empire rise. Internally, France was dominated by the conflict with the House of Habsburg and the French Wars of Religion between Catholics and Huguenots. France was successful in the Thirty Years\' War and further increased its influence during the reign of Louis XIV.
+    </string>
+
+    <string name="italy">
+
+        <b>Capital: </b>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t Rome \n
+        <b>Largest City: </b>\t\t\t\t\t\t\t\t\t Rome \n
+        <b>National Language: </b>\t Italian \n
+        <b>Total area: </b>\t\t\t\t\t\t\t\t\t\t\t 301,340 km2 \n
+        <b>Currency: </b>\t\t\t\t\t\t\t\t\t\t\t\t EUR \n\n
+
+                \t\t Italy, officially the Italian Republic,is a country in Southern and Western Europe. Located in the middle of the Mediterranean Sea, it consists of a peninsula surrounded by the Alps and several islands, notably Sicily and Sardinia. Italy shares its borders with France, Switzerland, Austria, Slovenia and two enclaves: Vatican City and San Marino. Its two territorial exclaves include Campione (Switzerland) and Pelagie Islands (an archipelago in the African Plate). It is the tenth-largest country by land area in the European continent, covering an area of 301,340 km2 (116,350 sq mi), and the third-most populous member state of the European Union, with a population of nearly 60 million. Its capital and largest city is Rome.
+
+        \n\n\t\t In antiquity, the Italian peninsula was home to numerous peoples; the Latin city of Rome in central Italy, founded as a Kingdom, became a Republic that conquered the Mediterranean world and ruled it for centuries as an Empire. With the spread of Christianity, Rome became the seat of the Catholic Church and of the Papacy. During the Early Middle Ages, Italy experienced the fall of the Western Roman Empire and inward migration from Germanic tribes. By the 11th century, Italian city-states and maritime republics expanded, bringing renewed prosperity through commerce and laying the groundwork for modern capitalism. The Italian Renaissance flourished in Florence during the 15th and 16th centuries and spread to the rest of Europe. Italian explorers also discovered new routes to the Far East and the New World, leading the European Age of Discovery. However, centuries of rivalry and infighting between the Italian city-states among other factors left the peninsula divided into numerous states until the late modern period. During the 17th and 18th centuries, the Italian economic and commercial importance significantly waned.
+    </string>
+    <string name="taj_mahal">
+                \t\t The Taj Mahal (\'Crown of the Palace\') is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan to house the tomb of his beloved wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.
+
+        \n\n\t\t Construction of the mausoleum was essentially completed in 1643, but work continued on other phases of the project for another 10 years. The first ceremony held at the mausoleum was an observance by Shah Jahan, on 6 February 1643, of the 12th anniversary of the death of Mumtaz Mahal. The mausoleum was opened at that time to thousands of mourners.
+
+        \n\n\t\t The Taj Mahal complex is believed to have been completed in its entirety in 1653 at a cost estimated at the time to be around ₹32 million, which in 2023 would be approximately ₹35 billion (US$498 million). The construction project employed some 20,000 artisans under the guidance of a board of architects led by Ustad Ahmad Lahori, the emperor\'s court architect. Various types of symbolism have been employed in the Taj to reflect natural beauty and divinity.
+
+        \n\n\t\t The Taj Mahal was designated as a UNESCO World Heritage Site in 1983 for being \"the jewel of Islamic art in India and one of the universally admired masterpieces of the world\'s heritage\". It is regarded by many as the best example of Mughal architecture and a symbol of India\'s rich history. The Taj Mahal attracts around 5 million visitors a year, and in 2007 it was declared a winner of the New 7 Wonders of the World (2000–2007) initiative.
+    </string>
+
 </resources>
