@@ -1,8 +1,10 @@
-package com.nkcdev.infobook;
+package com.nkcdev.infobook.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.nkcdev.infobook.R;
 
 public class CountriesActivity extends AppCompatActivity {
 

@@ -1,10 +1,14 @@
-package com.nkcdev.infobook;
+package com.nkcdev.infobook.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
+
+import com.nkcdev.infobook.adapters.AdapterClass;
+import com.nkcdev.infobook.ModelClass;
+import com.nkcdev.infobook.R;
 
 import java.util.ArrayList;
 

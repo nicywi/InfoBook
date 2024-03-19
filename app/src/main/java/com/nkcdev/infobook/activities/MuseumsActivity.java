@@ -1,14 +1,16 @@
-package com.nkcdev.infobook;
+package com.nkcdev.infobook.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class LeadersActivity extends AppCompatActivity {
+import com.nkcdev.infobook.R;
+
+public class MuseumsActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_leaders);
+        setContentView(R.layout.activity_museums);
     }
 }

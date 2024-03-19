@@ -1,4 +1,4 @@
-package com.nkcdev.infobook;
+package com.nkcdev.infobook.adapters;
 
 import android.content.Context;
 import android.content.Intent;
@@ -11,6 +11,13 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.nkcdev.infobook.ModelClass;
+import com.nkcdev.infobook.R;
+import com.nkcdev.infobook.activities.CountriesActivity;
+import com.nkcdev.infobook.activities.LeadersActivity;
+import com.nkcdev.infobook.activities.MuseumsActivity;
+import com.nkcdev.infobook.activities.WondersActivity;
 
 import java.util.ArrayList;
 
