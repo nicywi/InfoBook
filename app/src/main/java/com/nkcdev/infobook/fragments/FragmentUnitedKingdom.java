@@ -21,6 +21,10 @@ public class FragmentUnitedKingdom extends Fragment {
     private ImageView imageViewUnitedKingdom;
     private ProgressBar progressBarUnitedKingdom;
 
+    public static FragmentUnitedKingdom newInstance() {
+        return new FragmentUnitedKingdom();
+    }
+
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
